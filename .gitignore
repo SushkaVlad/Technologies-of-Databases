@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+.idea/
+env*/
+local_settings.py
+*.pdf
+.ipynb_checkpoints/
